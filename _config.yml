@@ -9,6 +9,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 remote_theme: samarsault/plainwhite-jekyll
 
+theme: plainwhite
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
